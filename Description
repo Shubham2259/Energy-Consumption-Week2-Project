@@ -1,0 +1,16 @@
+Energy Consumption Analysis Dashboard
+This repository contains Power BI dashboards for comprehensive energy consumption trend analysis across multiple cities and buildings.
+Key features include:
+
+Visualization of electricity, gas, and water consumption trends by year, quarter, month, and day.
+
+Comparison of average consumption across buildings and cities.
+
+Interactive filters for detailed, building-level and city-level insights.
+
+Analysis of average price per unit by energy type.
+
+The dashboards help identify consumption patterns and support data-driven decision-making for energy management.
+
+Feel free to adjust or expand this description to match your specific project details.
+
